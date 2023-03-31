@@ -1,6 +1,6 @@
 Name:		texlive-hwemoji
 Version:	65001
-Release:	1
+Release:	2
 Summary:	Unicode emoji support for pdfLaTeX with sequences
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hwemoji
