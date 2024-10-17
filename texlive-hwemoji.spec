@@ -3,7 +3,7 @@ Version:	65001
 Release:	2
 Summary:	Unicode emoji support for pdfLaTeX with sequences
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hwemoji
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hwemoji
 License:	lppl1.3c cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hwemoji.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hwemoji.doc.r%{version}.tar.xz
